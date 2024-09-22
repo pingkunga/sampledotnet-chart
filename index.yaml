@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sampledotnet:
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2024-09-22T14:08:28.2145326+07:00"
+    description: A Helm chart for Kubernetes
+    digest: f1c6c781f96a7e14d18a3eae271a9a5f15f5859e79ccc836dbbe2c9d99dd76c8
+    name: sampledotnet
+    type: application
+    urls:
+    - https://pingkunga.github.io/sampledotnet-chart/sampledotnet-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-22T14:08:28.2145326+07:00"
