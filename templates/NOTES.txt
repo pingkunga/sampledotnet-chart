@@ -1,0 +1,1 @@
+This is my sample chart from sample asp.net core image {{ .Values.appName }}
